@@ -77,6 +77,7 @@ class SortingDemo
     end
   end
 
+  
   def self.run_merge_sort(arrays)
     arrays.each do |array|
       array_to_test = array.dup
